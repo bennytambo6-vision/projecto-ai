@@ -1,0 +1,8 @@
+{
+  "name": "JAQUES AI - Robot Brain",
+  "description": "A futuristic AI brain for autonomous robots inspired by Iron Man's JARVIS. Features voice activation, robot control, and real-time conversation.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
